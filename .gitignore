@@ -1,0 +1,35 @@
+# Java specific files
+*.class       # Compiled bytecode
+*.jar         # Java archives
+*.war         # Web application archive
+*.ear         # Enterprise archive
+*.log         # Log files
+
+# Maven specific files
+target/       # Maven build output
+.idea/        # IntelliJ IDEA project files
+*.iml         # IntelliJ IDEA module files
+
+# Gradle specific files
+.gradle/      # Gradle cache
+build/        # Gradle build output
+
+# Eclipse specific files
+.classpath    # Eclipse classpath file
+.project      # Eclipse project file
+.settings/    # Eclipse settings folder
+
+# OS specific files
+.DS_Store     # macOS specific
+Thumbs.db     # Windows specific
+*.swp         # Vim swap files
+
+# Other IDE files
+.vscode/      # VS Code folder
+*.vscode/     # VS Code workspace settings
+
+# NetBeans specific
+nbproject/    # NetBeans project folder
+
+# Java version specific
+*.jar.original
