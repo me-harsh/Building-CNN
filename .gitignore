@@ -1,9 +1,9 @@
 # Java specific files
-*.class       # Compiled bytecode
-*.jar         # Java archives
+**/*.class       # Compiled bytecode
+**/*.jar         # Java archives
 *.war         # Web application archive
 *.ear         # Enterprise archive
-*.log         # Log files
+**/*.log         # Log files
 
 # Maven specific files
 target/       # Maven build output
